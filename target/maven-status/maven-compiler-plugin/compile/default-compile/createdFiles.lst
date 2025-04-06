@@ -1,0 +1,4 @@
+com\exemplo\carros\model\Carro.class
+com\exemplo\carros\service\CarroService.class
+com\exemplo\carros\repository\CarroRepository.class
+com\exemplo\carros\controller\CarroController.class
